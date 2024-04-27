@@ -1,3 +1,7 @@
+I started a new repo for this Simple Boggle App and here is the link to my new repo: 
+https://github.com/davidyh3/SimpleBoggle.git
+
+
 AI use: This homework is heavily AI using both ChatGPT and GitHub Copilot, including creating gradle, fixing typos and logic bugs, and revising code. With the help of AI, I fixed all the bugs in my program.
 
 Note: This app keeps stopping right now and I do not know why. It was runnable before I made some small changes and refactored the structure.
